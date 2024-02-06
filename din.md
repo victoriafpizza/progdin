@@ -18,7 +18,11 @@ resolução do problema do cliente
  - Bioinformatica
  - Machine Learning & Artificial Intelligence
  - Data Curation
-
+ - Mergesort
+ - Quicksort
+ - Revisar o uso de dicionários
+ - Heap / Stack --- Memory
+ 
 Tudo em Python
 
 EMENTA
