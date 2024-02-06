@@ -17,6 +17,7 @@ resolução do problema do cliente
  - Teoria de Jogos 
  - Bioinformatica
  - Machine Learning & Artificial Intelligence
+ - Data Curation
 
 Tudo em Python
 
