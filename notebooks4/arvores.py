@@ -1,0 +1,1 @@
+# As arvores são estruturas que auxiliam na hora da tomada de uma decisão 
